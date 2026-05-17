@@ -39,7 +39,8 @@ arquitectura de N-Capas, asegurando el desacoplamiento de datos mediante DTOs y
 la exposición profesional de servicios a través de OpenAPI
 
 -- Descripción del Trabajo Realizado
-
+La aplicación web FreshBasket está enfocada en la gestión de inventario así que el primer módulo completo que decidimos crear fue el de usuarios, se seleccionó este módulo por su importancia para los futuros registros que se hagan ya sea de productos, entradas o salidas.
+En las siguientes capturas se podrá apreciar, que hemos integrado el Html, CSS, React, con datos reales funcionando Backend y Frontend en conjunto
 Este proyecto implementa una arquitectura de N-Capas con las siguientes fases:
 
 **Fase A - Persistencia con PostgreSQL:**
